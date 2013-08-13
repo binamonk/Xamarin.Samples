@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TiledLayers", "TiledLayers.csproj", "{4A6BCD89-23FB-47C5-935C-691FE6CD841D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+		Ad-Hoc|iPhone = Ad-Hoc|iPhone
+		AppStore|iPhone = AppStore|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A6BCD89-23FB-47C5-935C-691FE6CD841D}.Ad-Hoc|iPhone.ActiveCfg = Ad-Hoc|iPhone
+		{4A6BCD89-23FB-47C5-935C-691FE6CD841D}.Ad-Hoc|iPhone.Build.0 = Ad-Hoc|iPhone
+		{4A6BCD89-23FB-47C5-935C-691FE6CD841D}.AppStore|iPhone.ActiveCfg = AppStore|iPhone
+		{4A6BCD89-23FB-47C5-935C-691FE6CD841D}.AppStore|iPhone.Build.0 = AppStore|iPhone
+		{4A6BCD89-23FB-47C5-935C-691FE6CD841D}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{4A6BCD89-23FB-47C5-935C-691FE6CD841D}.Debug|iPhone.Build.0 = Debug|iPhone
+		{4A6BCD89-23FB-47C5-935C-691FE6CD841D}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{4A6BCD89-23FB-47C5-935C-691FE6CD841D}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{4A6BCD89-23FB-47C5-935C-691FE6CD841D}.Release|iPhone.ActiveCfg = Release|iPhone
+		{4A6BCD89-23FB-47C5-935C-691FE6CD841D}.Release|iPhone.Build.0 = Release|iPhone
+		{4A6BCD89-23FB-47C5-935C-691FE6CD841D}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{4A6BCD89-23FB-47C5-935C-691FE6CD841D}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = TiledLayers.csproj
+	EndGlobalSection
+EndGlobal
